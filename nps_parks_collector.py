@@ -15,10 +15,10 @@ from google.auth import default
 # =============================================================================
 
 # PASTE YOUR NPS API KEY HERE (get one from https://www.nps.gov/subjects/developer/get-started.htm)
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "0xX49vxWoNbatY4rCzZfW3AqwsmuAPzWBWOlaG0l"
 
 # PASTE YOUR GOOGLE SHEET URL HERE (must be a new/empty sheet or existing sheet you want to overwrite)
-SHEET_URL = "YOUR_GOOGLE_SHEET_URL_HERE"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1lTkQ0u0rN3P-bZJhLXAaCtztgukxbqQweqafoBv4tws/edit?usp=sharing"
 
 # =============================================================================
 # DO NOT EDIT BELOW THIS LINE
